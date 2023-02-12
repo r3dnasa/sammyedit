@@ -1,6 +1,6 @@
-# sammyhud
+# sammyhud edited
  
-**Edited version of axhud.**
+**Edited version of sammyhud by rednasa.**
 
 # credits
 **Alex_f the original creator of [axhud](https://huds.tf/forum/showthread.php?tid=925)**
