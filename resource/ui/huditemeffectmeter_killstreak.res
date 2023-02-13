@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"-15"
-		"ypos"			"r20"
+		"xpos"			"c100"
+		"ypos"			"r50"
 		"zpos" 			"3"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -25,11 +25,11 @@
 		"tall"			"17"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"30 30 30 0"
 	}
-	"ItemEffectMeterLabel"
+	"ItemEffectMeterLabel"	//unused
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
@@ -50,48 +50,6 @@
 		"font"					"nü12"
 		"fgcolor_override"		"blank"
 	}	
-	"ItemEffectMeterLabel1"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterLabel1"
-		"xpos"					"18"
-		"ypos"					"0"
-		"zpos"					"2"
-		"wide"					"75"
-		"tall"					"20"
-		"autoResize"			"1"
-		"pinCorner"				"2"
-		"visible"				"0"
-		"enabled"				"0"
-		"tabPosition"			"0"
-		"labelText"				">"
-		"textAlignment"			"west"
-		"dulltext"				"0"
-		"brighttext"			"0"
-		"font"					"nü24"
-		"fgcolor_override"		"white"
-	}
-	"ItemEffectMeterLabelshdw"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterLabelshdw"
-		"xpos"					"18"
-		"ypos"					"0"
-		"zpos"					"2"
-		"wide"					"75"
-		"tall"					"20"
-		"autoResize"			"1"
-		"pinCorner"				"2"
-		"visible"				"0"
-		"enabled"				"0"
-		"tabPosition"			"0"
-		"labelText"				">"
-		"textAlignment"			"west"
-		"dulltext"				"0"
-		"brighttext"			"0"
-		"font"					"nü24"
-		"fgcolor_override"		"0 0 0 255"
-	}
 
 	"ItemEffectMeter"
 	{	
@@ -116,7 +74,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"16"
+		"xpos"					"0"
 		"ypos"					"-2"
 		"zpos"					"2"
 		"wide"					"35"
@@ -129,7 +87,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"nü24"
+		"font"					"nü16"
 		"fgcolor"				"nüwhite"
 	}
 	
@@ -150,10 +108,24 @@
 		"textAlignment"								"center"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"nü24"
+		"font"										"nü16"
 		"fgcolor"									"ShadowBlack"
 		
 		"pin_to_sibling" 							"ItemEffectMeterCount"
+	}
+
+	"ItemEffectMeterIcon"	//taken from csharp
+	{
+		"ControlName"		"CTFImagePanel"
+		"fieldName"			"ItemEffectMeterIcon"
+		"xpos"		"0"
+		"ypos"		"3"
+		"wide"		"10"
+		"tall"		"10"
+		"enabled"	"1"
+		"visible"	"1"
+		"image"		"../hud/leaderboard_streak_freezecam"
+		"alpha"				"192"
 	}
 	
 }
