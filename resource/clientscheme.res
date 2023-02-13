@@ -116,12 +116,18 @@ Scheme
 		}
 		"20"
 		{
-			"font" 	"resource/fonts/surface_numbers.otf"
+			"font"  "resource/fonts/surface_numbers.otf"
 			"name" 	"Surface-Numbers"
 		}
 		"21"
 		{
 			"font" "resource/fonts/Surface-Sharpened-Old.ttf"
 			"name"	"Surface Sharpened Medium"
+		}
+		"22"
+		{
+			"font"  "resource/fonts/Product Sans.ttf"
+			"name"	"Product Sans"
+		}
 	}
 }

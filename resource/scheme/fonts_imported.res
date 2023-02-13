@@ -5,7 +5,16 @@ Scheme
 	{
 		// Damage Numbers
 		//-----------------------------------
-		
+		"contractfont"
+		{
+			"1"
+			{
+				"name"		"Product Sans"
+				"tall"		"7"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
 		"surfaceoutline22"
 		{
 			"1"
