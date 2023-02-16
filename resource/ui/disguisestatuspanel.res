@@ -40,7 +40,7 @@
 		"tall"	 		"16"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"15 15 15 230"
+		"bgcolor_override"	"15 15 15 128"
 	}
 
 	"DisguiseStatusBG"

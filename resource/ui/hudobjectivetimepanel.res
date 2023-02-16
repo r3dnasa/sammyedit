@@ -47,6 +47,27 @@
 			"visible"	"0"
 		}
 	}
+	
+	"TimePanelBG3"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"TimePanelBG3"
+		"xpos"			"30"
+		"ypos"			"4"
+		"zpos"			"2"
+		"wide"			"40"
+		"tall"			"12"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"		"1"
+		"image"			""
+		"fillcolor"		"15 15 15 100"
+		
+		if_match
+		{
+			"visible"	"0"
+		}
+	}
 
 	"TimePanelProgressBar"
 	{

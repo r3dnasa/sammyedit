@@ -5,16 +5,16 @@ Scheme
 	{
 		// Damage Numbers
 		//-----------------------------------
-		"contractfont"
-		{
-			"1"
-			{
-				"name"		"Product Sans"
-				"tall"		"7"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
+//		"contractfont"
+//		{
+//			"1"
+//			{
+//				"name"		"Product Sans"
+//				"tall"		"7"
+//				"antialias" "1"
+//				"outline"	"1"
+//			}
+//		}
 		"surfaceoutline22"
 		{
 			"1"
@@ -38,7 +38,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Renogare Soft"
+				"name"			"Product Sans"	//"Renogare Soft"
 				"tall"			"8"
 				"additive"  	"0"
 				"antialias"		"1"

@@ -46,7 +46,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"	
-		"fillcolor"		"15 15 15 215"
+		"fillcolor"		"15 15 15 128"
 		"PaintBackgroundType"	"0"
 	}
 	
