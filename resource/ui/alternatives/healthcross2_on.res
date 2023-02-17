@@ -21,7 +21,7 @@
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"PlayerStatusHealthBonusImage"
-		"xpos"						"105"	//fix
+		"xpos"						"103"	//fix
 		"ypos"						"38"
 		"zpos"						"2"
 		"wide"						"35"
@@ -37,7 +37,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"77"	//center fix
+		"xpos"			"75"	//center fix
 		"ypos"			"30"
 		"zpos"			"5"
 		"wide"			"90"

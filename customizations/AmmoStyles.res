@@ -8,8 +8,9 @@
 
 //------------------------------------------
 
-#base "../resource/ui/alternatives/ThickShadow.res"		//Thicker shadow on ammo
+//#base "../resource/ui/alternatives/ThickShadow.res"		//Thicker shadow on ammo
 //#base   "../resource/ui/alternatives/ThinShadow.res"       //Thinner shadow on ammo
+#base "../resource/ui/alternatives/bigammo.res"		//bigammo
 //------------------------------------------
 
 //////////////////////////////////////////////////////////////////////////////////////////////

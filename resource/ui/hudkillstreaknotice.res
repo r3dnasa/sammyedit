@@ -12,8 +12,8 @@
 		"autoResize"	"1"
 		"visible"		"1"
 		"enabled"		"1"
-		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"PanelBG"	
+		"PaintBackgroundType"	"2"
+		"bgcolor_override"	"0 0 0 100"	
 	}
 	
 	"SplashLabel"

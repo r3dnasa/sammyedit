@@ -1,10 +1,15 @@
 "Refract"
 {
-	"%keywords" "tf"
-	"$refractamount" "0.0"
-	"$refracttint" "{255 255 255}"
-	"$refractblur" "0.0"
+	"%keywords" 				"tf"
+	"$refractamount"			"0.0"
+	"$refracttint"				"{255 255 255}"
+	"$refractblur"				"0.0"
 
-	"$scale" "[1 1]"
-	"$normalmap" "vgui/replay/thumbnails/REFRACTnormal_transparent"
+	"$scale"					"[1 1]"
+	"$normalmap" 	"vgui/replay/thumbnails/REFRACTnormal_transparent"
+
+	"<dx90"	//dx8 fix
+	{
+		"$no_draw"				"1"
+	}
 }

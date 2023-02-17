@@ -20,7 +20,6 @@
 		"controlName"								"ImagePanel"
 		"fieldName"									"Speed_Digit_1"
 		"xpos"										"10"	//12
-		"xpos_minmode"								"10"
 		"ypos"										"0"
 		"zpos"										"1"
 		"wide"										"10"	//12
@@ -28,7 +27,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"image"										"replay/thumbnails/speedo/digits_4"
+		"image"										"replay/thumbnails/speedo/speed4"
 		"scaleimage"								"1"
 		"drawcolor"									"White"
 
@@ -48,7 +47,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"image"										"replay/thumbnails/speedo/digits_4"
+		"image"										"replay/thumbnails/speedo/speed4"
 		"scaleimage"								"1"
 		"drawcolor"									"0 0 0 100"
 		"pin_to_sibling"							"Speed_Digit_1"
@@ -65,7 +64,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"image"										"replay/thumbnails/speedo/digits_3"
+		"image"										"replay/thumbnails/speedo/speed3"
 		"scaleimage"								"1"
 		"drawcolor"									"White"
 
@@ -85,7 +84,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"image"										"replay/thumbnails/speedo/digits_3"
+		"image"										"replay/thumbnails/speedo/speed3"
 		"scaleimage"								"1"
 		"drawcolor"									"0 0 0 100"
 		"pin_to_sibling"							"Speed_Digit_2"
@@ -102,7 +101,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"image"										"replay/thumbnails/speedo/digits_2"
+		"image"										"replay/thumbnails/speedo/speed2"
 		"scaleimage"								"1"
 		"drawcolor"									"White"
 
@@ -122,7 +121,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"image"										"replay/thumbnails/speedo/digits_2"
+		"image"										"replay/thumbnails/speedo/speed2"
 		"scaleimage"								"1"
 		"drawcolor"									"0 0 0 100"
 		"pin_to_sibling"							"Speed_Digit_3"
@@ -139,7 +138,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"image"										"replay/thumbnails/speedo/digits_1"
+		"image"										"replay/thumbnails/speedo/speed1"
 		"scaleimage"								"1"
 		"drawcolor"									"White"
 
@@ -159,7 +158,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"image"										"replay/thumbnails/speedo/digits_1"
+		"image"										"replay/thumbnails/speedo/speed1"
 		"scaleimage"								"1"
 		"drawcolor"									"0 0 0 100"
 

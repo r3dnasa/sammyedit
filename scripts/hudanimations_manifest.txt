@@ -8,10 +8,10 @@ hudanimations_manifest
 // Select a health animation to use
 //-------------------------------------------------------
 
-//	"file"		"scripts/hudanimations_health.txt"
+	"file"		"scripts/hudanimations_health.txt"
 //	"file"		"scripts/hudanimations_health-test.txt"
 //	"file"		"scripts/hudanimations_healthoutline.txt"
-	"file"		"scripts/hudanimations_healthcross2.txt"
+//	"file"		"scripts/hudanimations_healthcross2.txt"
 //	"file"		"scripts/hudanimations_healthbox.txt"
 
 //-------------------------------------------------------

@@ -88,7 +88,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"nü16"
-		"fgcolor"				"nüwhite"
+		"fgcolor"				"Killstreak"	//ks color from scheme
 	}
 	
 	"ItemEffectMeterCountShadow"

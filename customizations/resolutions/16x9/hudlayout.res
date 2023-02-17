@@ -76,11 +76,11 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"0"	//c-60
+		"ypos"			"0"	//c90
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"f0"
-		"tall"			"480"
+		"wide"			"f0"	//200
+		"tall"			"480"	//100
 //		"MeterFG"		"White"
 //		"MeterBG"		"Meterbg"
 		
@@ -1010,10 +1010,10 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"480"
+		"xpos"			"0"	//c-75
+		"ypos"			"0"	//c74
+		"wide"			"f0"	//200
+		"tall"			"480"	//100
 		
 	}	
 
